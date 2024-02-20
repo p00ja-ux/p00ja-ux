@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @p00ja-ux
 
-- 🌱 I’m currently learning Data Associate
-
-
-<!---
-p00ja-ux/p00ja-ux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Topic Name : YouTubers dataset analysis
+YouTubers dataset
+Given dataset containing information about YouTube channels including rank, username, catagories, subscribers, country, visits, likes, comments, links one possible theory to explore could be the relationship between these variables and the channels popularity or success.
